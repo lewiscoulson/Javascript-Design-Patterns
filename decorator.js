@@ -1,9 +1,9 @@
 
 // Javascript Implementations of the Decorator Pattern //
-// The aim here is to provide many examples of this pattern to help fellow developers understand this pattern. //
+// The aim here is to provide many examples of this pattern to help fellow developers understanding of this pattern. //
 
 
-// What better way to illustrate the decorator pattern that with a create your own greasy fryup example...
+// What better way to illustrate the decorator pattern than with a create your own greasy fryup example...
 // This example is heavily influenced by the macbook example shown in Addy Osmani's essential js design patterns book.
 
 // Our Fry up Constructor
